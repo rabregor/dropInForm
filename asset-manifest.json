@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/dropInForm/static/css/main.4f853479.chunk.css",
+    "main.js": "/dropInForm/static/js/main.c90ffccc.chunk.js",
+    "main.js.map": "/dropInForm/static/js/main.c90ffccc.chunk.js.map",
+    "runtime-main.js": "/dropInForm/static/js/runtime-main.0c0dde6c.js",
+    "runtime-main.js.map": "/dropInForm/static/js/runtime-main.0c0dde6c.js.map",
+    "static/css/2.a95be28f.chunk.css": "/dropInForm/static/css/2.a95be28f.chunk.css",
+    "static/js/2.89032e0b.chunk.js": "/dropInForm/static/js/2.89032e0b.chunk.js",
+    "static/js/2.89032e0b.chunk.js.map": "/dropInForm/static/js/2.89032e0b.chunk.js.map",
+    "static/js/3.ca4f70ae.chunk.js": "/dropInForm/static/js/3.ca4f70ae.chunk.js",
+    "static/js/3.ca4f70ae.chunk.js.map": "/dropInForm/static/js/3.ca4f70ae.chunk.js.map",
+    "index.html": "/dropInForm/index.html",
+    "static/css/2.a95be28f.chunk.css.map": "/dropInForm/static/css/2.a95be28f.chunk.css.map",
+    "static/css/main.4f853479.chunk.css.map": "/dropInForm/static/css/main.4f853479.chunk.css.map",
+    "static/js/2.89032e0b.chunk.js.LICENSE.txt": "/dropInForm/static/js/2.89032e0b.chunk.js.LICENSE.txt",
+    "static/media/dropIn.2202eba3.png": "/dropInForm/static/media/dropIn.2202eba3.png",
+    "static/media/logo.6ce24c58.svg": "/dropInForm/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0c0dde6c.js",
+    "static/css/2.a95be28f.chunk.css",
+    "static/js/2.89032e0b.chunk.js",
+    "static/css/main.4f853479.chunk.css",
+    "static/js/main.c90ffccc.chunk.js"
+  ]
+}
